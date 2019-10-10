@@ -12,9 +12,12 @@ class MyApp extends StatelessWidget {
           ),
           body: Column(
             children: [
-              RaisedButton(
-                onPressed: () {},
-                child: Text('Add Products'),
+              Container(
+                margin: EdgeInsets.all(10.0),
+                child: RaisedButton(
+                  onPressed: () {},
+                  child: Text('Add Products'),
+                ),
               ),
               Card(
                 child: Column(
