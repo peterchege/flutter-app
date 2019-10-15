@@ -8,7 +8,7 @@ class Products extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
-      children: _products
+      children: products
           .map(
             (element) => Card(
               child: Column(
