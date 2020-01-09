@@ -15,3 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 #Flutter test environment for my new app
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
