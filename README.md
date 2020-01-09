@@ -14,10 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Flutter test environment for my new app
 
 # [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
-#[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=alert_status)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=bugs)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=code_smells)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=peterchege_flutter-app&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=peterchege_flutter-app)
